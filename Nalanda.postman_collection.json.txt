@@ -52,13 +52,6 @@
         "url": "http://localhost:4000/api/books"
       }
     },
-    {
-      "name": "Books - Get by ID",
-      "request": {
-        "method": "GET",
-        "url": "http://localhost:4000/api/books/{{bookId}}"
-      }
-    },
       {
       "name": "Books - Update Book",
       "request": {
