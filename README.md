@@ -156,8 +156,10 @@ npm install
 * Open .env and edit values:
 ```
 PORT=4000
-MONGO_URI=mongodb://127.0.0.1:27017/nalanda
+MONGO_URI=mongodb://localhost:27017/nalanda
 JWT_SECRET=super-secret-key
+JWT_ENC_KEY=0123456789abcdef0123456789abcdef0123456789abcdef0123456789abcdef
+NODE_ENV=development
 ```
 - 4. Run the server
 ```bash
