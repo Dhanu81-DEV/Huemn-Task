@@ -145,7 +145,7 @@ Steps:
 
 - 1. Clone the repository
 ```bash
-git clone git@github.com:Dhanu81-DEV/Huemn-Task.git
+git clone https://github.com/Dhanu81-DEV/Huemn-Task.git
 cd nalanda
 ```
 - 2. Install dependencies
