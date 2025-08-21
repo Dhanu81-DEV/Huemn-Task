@@ -39,10 +39,10 @@ POST /api/auth/register
 ```
 ``` bash
 {
-"name": "Alice",
-"email": "alice@example.com",
-"password": "password123",
-"role": "member"
+"name": "name",
+"email": "name@example.com",
+"password": "pass123",
+"role": "MEMBER"
 }
 ```
 
@@ -53,8 +53,8 @@ POST /api/auth/login
 ```
 ```bash
 {
-"email": "alice@example.com",
-"password": "password123"
+"email": "name@example.com",
+"password": "pass123"
 }
 ```
 
@@ -68,7 +68,7 @@ POST /api/books
 ```bash
 {
 "title": "The Hobbit",
-"author": "J.R.R. Tolkien",
+"author": "Tolkien",
 "copies": 5
 }
 ```
