@@ -163,6 +163,6 @@ NODE_ENV=development
 ```
 - 4. Run the server
 ```bash
-npm run dev
+npm start
 ```
 Server runs on: http://localhost:4000
