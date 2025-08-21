@@ -145,8 +145,8 @@ Steps:
 
 - 1. Clone the repository
 ```bash
-git clone https://bitbucket.org/<your-username>/nalanda-backend.git
-cd nalanda-backend
+git clone git@github.com:Dhanu81-DEV/Huemn-Task.git
+cd nalanda
 ```
 - 2. Install dependencies
 ```bash
