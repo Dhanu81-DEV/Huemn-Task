@@ -6,7 +6,7 @@
 ```
 nalanda/
 ├─ package.json
-├─ .env.example
+├─ .env
 ├─ README.md
 └─ src/
 ├─ server.js # Server entry point
